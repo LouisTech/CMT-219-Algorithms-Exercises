@@ -5,7 +5,7 @@ public class RewriteNumber {
 	    Scanner in = new Scanner( System.in );
 
 	    System.out.println( "Enter an integer between 0 and 9" );
-	    int num = in.nextInt();
+	    int num = in.nextInt();v
 	    String output = "";
 		if (num == 1){
 			output = "one";
